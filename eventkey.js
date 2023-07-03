@@ -18,4 +18,5 @@ document.addEventListener('keydown',e=>{
     
 })
 
+console.log("hello world");
 
